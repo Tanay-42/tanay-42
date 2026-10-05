@@ -16,9 +16,6 @@
 ## Connect with Me
 
 <p align="center">
-    <a href="https://twitter.com/tanay_arx">
-        <img src="https://skillicons.dev/icons?i=twitter"/>
-    </a>
     <a href="https://linkedin.com/in/tanay-verma-41482b259/">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
@@ -28,6 +25,7 @@
 </p>
 
 ## Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,github,vercel,vscode,linux,bash,plsql" />
 </p>
