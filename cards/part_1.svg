@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" viewBox="0 0 1009 380" width="1009px" height="380px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.add {fill: #3fb950;}
+.del {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1009px" height="680px" fill="#0d1117" stroke="#30363d" rx="15"/>
+<text x="15" y="35" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="35">           ?|rr[r})vnxxcv[){c}&lt;</tspan>
+<tspan x="15" y="55">        &lt;)v{1(1/(1]ru{]vucr][}})|</tspan>
+<tspan x="15" y="75">      !|&gt;l&gt;-?I(rc][}(v(1?I(((}?||-!&gt;</tspan>
+<tspan x="15" y="95">     }&lt;^_-l+&lt;l!()]vv{()|&gt;+i&gt;;,^_/?&gt;/?|</tspan>
+<tspan x="15" y="115">    }+i_&lt;I~ii_l(1}1]rc([?!!&gt;&gt;?i?(l/&lt;&gt;,j</tspan>
+<tspan x="15" y="135">   c(^,;,_+?!ii/1{}{))/II&gt;_&gt;_-&lt;&gt;,,;++-!?</tspan>
+<tspan x="15" y="155">   j}I,,~l!,,~&lt;(l]vnv][{v{/!^_^;-~,,,;:z</tspan>
+<tspan x="15" y="175">   )[!uuJjI~}!(i(zztXXOXhYu1)||~l/{/,,&gt;j</tspan>
+<tspan x="15" y="195">   !&gt;&gt;[UOQY0ztCQhbpwwWdoZXXLfzvxjjzt,i!n</tspan>
+<tspan x="15" y="215">   /i1Y0O0okqdqwm8&amp;8BMW*qddoZXYUCffLi&gt;?|</tspan>
+<tspan x="15" y="235"> Zo?,Y0QQYCCccuvt0bpm*8MM*qh0ZXCLtfx|!/</tspan>
+<tspan x="15" y="255">q+b{,oUZXUCXOXC[1{[zOQOJXOLUUXXYCCC)l+!</tspan>
+<tspan x="15" y="275">mmd[+addQQjvn[-u/xnJhUUvr(?(l-/nfYY{;{</tspan>
+<tspan x="15" y="295">w*OUiddkWBWoZO00aQUa&amp;k]u]],,]xfLru0+/X</tspan>
+<tspan x="15" y="315">&amp;QMzuQQkhB$MWMMMqb0pB0zZa0ZUt]ztCYC,UJ</tspan>
+<tspan x="15" y="335">LMpLf0YoQdmqk0UkQQdBwoYXkdddpMmbhk&lt;YXh</tspan>
+<tspan x="15" y="355"> 8&amp;jjXCCX0JfYpYo*ad8wo0aCamM8*bhXCvaX</tspan>
+<tspan x="15" y="375">   (UUULXzLY0Qaj[]{YLvzJtOLQddQJJJjOv</tspan>
+<tspan x="15" y="395">    COOYJaOt(jXCUkaJXCtjCYXtfYXUCLhC</tspan>
+<tspan x="15" y="415">    zCXZf00kh0q&amp;W@wmaQX[[rffYJLJYdL</tspan>
+<tspan x="15" y="435">    1jJYCCJZk0J0bh0b0CtL0ZokYLUf</tspan>
+<tspan x="15" y="455">    /zfCJfUYoaoUtJCCLtCYZYZtCZr</tspan>
+<tspan x="15" y="475">    vCvxCtLZbbhkkdZYXXOYtJtCt</tspan>
+<tspan x="15" y="495">    OXLxczjjXaaddbhaQOXtfCtcz</tspan>
+<tspan x="15" y="515">  dkJZ0Zzu]vvfUUOYXXJtjxvrnj$</tspan>
+<tspan x="15" y="535">   kOOOOOXzc])){[]r[}))rzfffW</tspan>
+<tspan x="15" y="555">    hZ0QOOOYfjr{)|)}vjztjftrw</tspan>
+<tspan x="15" y="575">     a0OQQ0XYYZZOZUCtfLJJULz</tspan>
+<tspan x="15" y="595">      b000Q0ZYUJYUCCJYYYUL{&amp;</tspan>
+<tspan x="15" y="615">      @JY0QaoooQ000ZZXtfad%@o</tspan>
+<tspan x="15" y="635">     0#@@#wJQoQQ0Q0OL&amp;@@@@@%w8*O</tspan>
+<tspan x="15" y="655">   hM%$#@@@@koaaQoaZW@@@$$@@@</tspan>
+</text>
+<text x="425.2" y="135" fill="#c9d1d9">
+<tspan x="425.2" y="135">Tanay Verma<tspan class="cc"> ——————————————————————————————————————————————</tspan></tspan>
+<tspan x="425.2" y="155"><tspan class="cc">. </tspan><tspan class="key">OS:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">Windows 11, Android 15</tspan></tspan>
+<tspan x="425.2" y="175"><tspan class="cc">. </tspan><tspan class="key">Uptime:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">22 years, 8 months, 8 days</tspan></tspan>
+<tspan x="425.2" y="195"><tspan class="cc">. </tspan><tspan class="key">Host:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">Learning &amp; Building</tspan></tspan>
+<tspan x="425.2" y="215"><tspan class="cc">. </tspan><tspan class="key">Role:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">AI Engineer</tspan></tspan>
+<tspan x="425.2" y="235"><tspan class="cc">. </tspan><tspan class="key">IDE:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="425.2" y="255"><tspan class="cc">. </tspan><tspan class="key">Currently:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Exploring LLMs &amp; agents</tspan></tspan>
+<tspan x="425.2" y="275"><tspan class="cc">. </tspan><tspan class="key">Ask Me About:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Python, C++, RAG, LLMs</tspan></tspan>
+<tspan x="425.2" y="295"><tspan class="cc">.</tspan></tspan>
+<tspan x="425.2" y="315"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">C++, Python</tspan></tspan>
+<tspan x="425.2" y="335"><tspan class="cc">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">English, Hindi, Marathi</tspan></tspan>
+<tspan x="425.2" y="355"><tspan class="cc">.</tspan></tspan>
+<tspan x="425.2" y="375">- Contact <tspan class="cc">————————————————————————————————————————————————</tspan></tspan>
+<tspan x="425.2" y="395"><tspan class="cc">. </tspan><tspan class="key">Email.Personal:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">tanayverma42004@gmail.com</tspan></tspan>
+<tspan x="425.2" y="415"><tspan class="cc">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">tanay-verma-41482b259</tspan></tspan>
+<tspan x="425.2" y="435"><tspan class="cc">. </tspan><tspan class="key">GitHub:</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">Tanay-42</tspan></tspan>
+<tspan x="425.2" y="455"><tspan class="cc">.</tspan></tspan>
+<tspan x="425.2" y="475">- GitHub Stats <tspan class="cc">———————————————————————————————————————————</tspan></tspan>
+<tspan x="425.2" y="495"><tspan class="cc">. </tspan><tspan class="key">Repos:</tspan><tspan class="cc"> ..... </tspan><tspan class="value">12 {Contributed: 13}</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars:</tspan><tspan class="cc"> ........... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="425.2" y="515"><tspan class="cc">. </tspan><tspan class="key">Commits:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">65</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">6</tspan></tspan>
+<tspan x="425.2" y="535"><tspan class="cc">. </tspan><tspan class="key">Lines of Code:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">2,546</tspan><tspan class="cc"> (</tspan><tspan class="add">2,869++</tspan><tspan class="cc">, </tspan><tspan class="del">323--</tspan><tspan class="cc">)</tspan></tspan>
+</text>
+</svg>
